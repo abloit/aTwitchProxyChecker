@@ -52,7 +52,7 @@ def proxy_check(conf):
             }
             rs.proxies.update(proxies)
     
-        rs.post('https://www.twitch.tv', proxies=proxies, timeout=conf['timeout'])
+        rs.post('https://www.twitch.tv', proxies=proxies, timeout=conf['timeout'], verify=False)
         save_proxy(proxy, conf)
     except:
         print(f"{Fore.WHITE}{proxy} {Fore.RED}This proxy is not compitable with Twitch.")
