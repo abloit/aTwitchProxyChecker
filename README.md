@@ -3,6 +3,7 @@
 
 # How is it set up?
 - Python> = 3
+
 - ```pip install -r requirements.txt ```
 We start the installation by entering the command in the terminal
 
