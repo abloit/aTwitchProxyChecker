@@ -2,7 +2,7 @@
 ![](https://img.shields.io/github/stars/abloit/aTwitchProxyChecker?color=9019fd&style=for-the-badge) ![](https://img.shields.io/github/forks/abloit/aTwitchProxyChecker?color=9019fd&style=for-the-badge) ![](https://img.shields.io/github/license/abloit/aTwitchProxyChecker?color=9019fd&style=for-the-badge) ![](https://img.shields.io/github/issues/abloit/aTwitchProxyChecker?color=9019fd&style=for-the-badge)
 
 # How is it set up?
-- Python> = 3
+- Python >= 3
 
 - ```pip install -r requirements.txt ```
 We start the installation by entering the command in the terminal
