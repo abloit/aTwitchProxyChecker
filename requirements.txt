@@ -1,0 +1,6 @@
+requests
+json
+queue
+threading
+coloroma
+os
