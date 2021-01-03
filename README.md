@@ -1,5 +1,5 @@
 # aTwitchProxyChecker
-![](https://img.shields.io/github/stars/aTwitchProxyChecker/editor.md.svg) ![](https://img.shields.io/github/forks/aTwitchProxyChecker/editor.md.svg) ![](https://img.shields.io/github/tag/aTwitchProxyChecker/editor.md.svg) ![](https://img.shields.io/github/release/aTwitchProxyChecker/editor.md.svg) ![](https://img.shields.io/github/issues/aTwitchProxyChecker/editor.md.svg)
+![](https://img.shields.io/github/stars/abloit/aTwitchProxyChecker?color=9019fd&style=for-the-badge) ![](https://img.shields.io/github/forks/abloit/aTwitchProxyChecker?color=9019fd&style=for-the-badge) ![](https://img.shields.io/github/license/abloit/aTwitchProxyChecker?color=9019fd&style=for-the-badge) ![](https://img.shields.io/github/issues/abloit/aTwitchProxyChecker?color=9019fd&style=for-the-badge)
 
 # How is it set up?
 - Python> = 3
