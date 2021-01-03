@@ -1,0 +1,6 @@
+{
+  "proxy_location": "proxy/proxies.txt",
+  "verified_proxy_location": "proxy/verified_proxies.txt",
+  "timeout": 15000,
+  "range_count": 10
+}
