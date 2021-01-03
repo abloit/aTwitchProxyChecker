@@ -1,5 +1,6 @@
 # aTwitchProxyChecker
-![](https://img.shields.io/github/stars/aTwitchProxyChecker/editor.md.svg) ![](https://img.shields.io/github/forks/aTwitchProxyChecker/editor.md.svg) ![](https://img.shields.io/github/tag/aTwitchProxyChecker/editor.md.svg) ![](https://img.shields.io/github/release/aTwitchProxyChecker/editor.md.svg)![](https://img.shields.io/github/issues/aTwitchProxyChecker/editor.md.svg)
+![](https://img.shields.io/github/stars/aTwitchProxyChecker/editor.md.svg) ![](https://img.shields.io/github/forks/aTwitchProxyChecker/editor.md.svg) ![](https://img.shields.io/github/tag/aTwitchProxyChecker/editor.md.svg) ![](https://img.shields.io/github/release/aTwitchProxyChecker/editor.md.svg) ![] (https://img.shields.io/github/issues/aTwitchProxyChecker/editor.md.svg)
+
 # How is it set up?
 ```pip install -r requirements.txt ```
 We start the installation by entering the command in the terminal
